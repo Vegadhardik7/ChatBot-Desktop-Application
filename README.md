@@ -20,6 +20,7 @@ Education & Management
 - Chatterbot
 - Speech_recognition
 - Pyaudio
+- PyCharm
 - Notepad
 
 # Application Interface:
