@@ -23,4 +23,4 @@ Education & Management
 - Notepad
 
 # Application Interface:
-![](img src="https://drive.google.com/file/d/1yT8NglgpNRbdoaGcl4p7QePqZHpYH9pq/view?usp=sharing")
+![](chatbot_theme.png)
